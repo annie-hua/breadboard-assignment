@@ -15,6 +15,6 @@ Fetch aggregated part details by providing a `partNumber` as a query parameter.
 #### Example Request:
 ```http
 GET /parts?partNumber=12345
-
+```
 #### Running the Application:
 npm run start
